@@ -1,0 +1,7 @@
+[package]
+name = "jumphash"
+version = "0.1.0"
+authors = ["Kirk Peterson <necrobious@gmail.com>"]
+edition = "2018"
+
+[dependencies]
